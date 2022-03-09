@@ -1,2 +1,2 @@
-# CYO-pj
-Edx HarvardX PH125.9x Data Science: Capstone
+# Capstone Project: IDV Learners
+Choose Your Own! project for Edx course: Data Science HarvardX PH125.9x 
